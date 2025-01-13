@@ -2,6 +2,11 @@
 
 This project simulates the trajectory of a ball thrown with an initial velocity and angle, considering the effects of gravity and air resistance (drag). The simulation uses numerical methods to approximate the motion of the ball over time.
 
+
+_shoot dem balls_ 🚀
+
+https://github.com/user-attachments/assets/6b39fbe9-5f70-40db-afc8-adec8fbed86f
+
 ## Problem Setup
 
 The ball is thrown with an initial velocity at a specific angle, and the following forces are considered:
